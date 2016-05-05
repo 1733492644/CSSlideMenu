@@ -1,6 +1,8 @@
 # CSSlideMenu
 非常方便的集成侧滑菜单
 
+
+![image](https://raw.githubusercontent.com/1733492644/CSSlideMenu/master/Untitled.gif)
 # 使用说明
     //创建侧滑菜单
     CGRect frame = CGRectMake(-250, 0, 250, self.view.frame.size.height);
